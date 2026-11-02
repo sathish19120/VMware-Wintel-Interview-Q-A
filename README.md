@@ -1,4 +1,4 @@
-# VMware-Wintel-Interview-Q-A
+# VMware-Wintel
 >1.How many roles and features are available in Windows Server?
 2. Have you ever installed or configured a vCenter Server? If yes, how did you set it up?
 3. What is the difference between LDAP, LDAPS, and Kerberos authentication?
