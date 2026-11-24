@@ -77,7 +77,7 @@ Note : Recruiter value: This demonstrates controlled troubleshooting, incident c
 ## 5. Planned ESXi maintenance with application availability maintained
 “I supported ESXi maintenance for a production VMware cluster. Before the change, I reviewed the approved upgrade path, hardware compatibility, backup status, cluster health, spare capacity, and VM migration restrictions.
 
-I coordinated the maintenance window with application owners and migrated workloads from one host at a time. After confirming evacuation, I placed the host into maintenance mode, applied the approved update, and rebooted it.
+I coordinated the maintenance window with application owners and migrated workloads from one host at a time. After confirming evacuation, I placed the host into maintenance mode, applied the approved update, and rebooted it
 
 Before returning it to service, I checked management connectivity, storage paths, networking, host health, and VM operation. I repeated the process only after each host passed validation.
 
